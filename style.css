@@ -9,7 +9,10 @@
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  background: #2b1d36;
+  background-image: url('lennart.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #2b1d36;
 }
 
 img, picture, video, canvas, svg {
@@ -27,4 +30,3 @@ p, h1, h2, h3, h4, h5, h6 {
 
 #root, #__next {
   isolation: isolate;
-}
