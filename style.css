@@ -10,10 +10,10 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   background-image: url('./lennart.png');
-  background-size: contain;
+  background-size: 512px;
   background-repeat: no-repeat;
   background-color: #2b1d36;
-  background-position: center center;
+  background-position: top center;
 }
 
 img, picture, video, canvas, svg {
